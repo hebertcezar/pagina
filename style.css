@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+
+}
+body{
+    background-color: lightsteelblue;
+}
+
+#ert{
+    text-align: center;
+
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+#intro{
+    text-align: center;
+}
+#intro2{
+    text-align: center;
+}
